@@ -1,0 +1,1 @@
+Se debe de ejecutar con el nodemon el achivo start.js para la ejecución del programa.
